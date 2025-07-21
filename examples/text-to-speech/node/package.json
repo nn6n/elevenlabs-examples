@@ -7,7 +7,7 @@
     "@aws-sdk/client-s3": "^3.536.0",
     "@aws-sdk/s3-request-presigner": "^3.556.0",
     "@google-cloud/storage": "^7.9.0",
-    "elevenlabs": "^0.2.0"
+    "elevenlabs": "^1.59.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
